@@ -7,7 +7,8 @@ Welcome to my GitHub! I'm passionate about technology, problem-solving, and crea
 
 ## 🛠️ Projects & Repositories
 ### ⚡ Highlights
-- [ECE 362 final project]([https://github.com/username/project1](https://github.com/abarroso08/ECE362-Team51Project)) - *Brief description of the project.*  
+- [ECE 362 final project]([https://github.com/username/project1](https://github.com/abarroso08/ECE362-Team51Project)) -  Designed and programmed a Snake-style game using buttons, LED matrix, TFT display, and SD card on STM32
+implemented logic in C and Assembly for ECE 362 at Purdue University.
 
 <!-- ### 🔬 Research & Experiments
 - [Research Project](https://github.com/username/research) - *Research or experiments in your field.*  
